@@ -16,9 +16,11 @@ Allow pasting of Clipboard HTML fragments captured in Web Browsers.
 Open a browser and select/copy an area on a webpage. Then use the plugin to insert the HTML fragment in the editor. (Normal paste will just insert the text of the copied area.)
 
 #### Requirements:
-The plugin relies on output from a CLI based utility GetClip by kmd which is available [here](http://upload.elektronshiki.ru/enigma/MySoft/GetClip/).
+The plugin relies on output from a 3rd-party CLI based utility, *GetClip* by kmd which is available [here](http://upload.elektronshiki.ru/enigma/MySoft/GetClip/).
 
 You can also use the GetClip from the ConClip package by Karl E. Peterson, available [here](http://vb.mvps.org/tools/ConClip/). But this one lacks support for uicode characters.
+
+You will manually have to download one of these two CLI utilities and place it in the root of the Paste HTML Fragment plugin folder.
 
 #### Installation:
 1) Download plugin .ZIP file.
