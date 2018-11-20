@@ -17,6 +17,7 @@ Open a browser and select/copy an area on a webpage. Then use the plugin to inse
 
 #### Requirements:
 The plugin relies on output from a CLI based utility GetClip by kmd which is available [here](http://upload.elektronshiki.ru/enigma/MySoft/GetClip/).
+
 You can also use the GetClip from the ConClip package by Karl E. Peterson, available [here](http://vb.mvps.org/tools/ConClip/). But this one lacks support for uicode characters.
 
 #### Installation:
