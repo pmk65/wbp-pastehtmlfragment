@@ -20,7 +20,7 @@ The plugin relies on output from a 3rd-party CLI based utility, **GetClip** by k
 
 You can also use the **GetClip** from the **ConClip** package by Karl E. Peterson, available [here](http://vb.mvps.org/tools/ConClip/). *This one lacks support for unicode characters.*
 
-You will manually have to download one of these two CLI utilities and place it in the root of the Paste HTML Fragment plugin folder.
+NOTE: You will manually have to download one of these two CLI utilities and place it in the root of the Paste HTML Fragment plugin folder.
 
 #### Installation:
 1) Download plugin .ZIP file.
